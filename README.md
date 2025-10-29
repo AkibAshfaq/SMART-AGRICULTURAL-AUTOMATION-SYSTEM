@@ -4,6 +4,10 @@
 
 ---
 
+**Arduino Was used in the simulation as the ESP32 board was not working in the simulation as the teams simulation expert stated**
+
+---
+
 ## 🧠 Overview
 
 **SMART AGRICULTURAL AUTOMATION SYSTEM** is a microcontroller-based project that automates irrigation and monitors agricultural field conditions using sensors and a web interface.  
